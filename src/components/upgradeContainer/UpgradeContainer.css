@@ -1,0 +1,52 @@
+
+.bg3 {
+  border-radius: 12px;
+  background: #0e192a ;
+  height: 230px;
+}
+
+.upgrade-to-pro1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.courses,
+.description {
+  position: absolute;
+  width: 264px;
+}
+.courses {
+  top: 46px;
+  left: 0;
+  font-size: 14px;
+  letter-spacing: 0.01em;
+  line-height: 22px;
+  color: white;
+  display: inline-block;
+}
+.description {
+  top: 24px;
+  left: 24px;
+}
+
+.label1 {
+  border-radius: 8px;
+  background-color: #355fe5;
+  padding: 12px 24px;
+}
+.button {
+  position: absolute;
+  top: 160px;
+  left: 24px;
+  font-size: 14px;
+  color: #fdfdfd;
+}
+.upgrade-to-pro {
+  position: absolute;
+  top: 658px;
+  left: 297px;
+  font-size: 24px;
+  color: white;
+  font-family: Inter;
+}

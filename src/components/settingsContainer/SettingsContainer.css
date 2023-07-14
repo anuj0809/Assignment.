@@ -1,0 +1,147 @@
+.setting {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  letter-spacing: 0.01em;
+  line-height: 40px;
+  font-weight: 600;
+}
+.notification-icon {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.div,
+.notif-icon {
+  position: absolute;
+  top: 0;
+}
+.notif-icon {
+  height: 100%;
+  width: 112.5%;
+  right: -6.25%;
+  bottom: 0;
+  left: -6.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div {
+  left: 5px;
+  letter-spacing: 0.01em;
+  line-height: 18px;
+}
+.notif-parent {
+  position: absolute;
+  height: 34.62%;
+  width: 30.77%;
+  top: 19.23%;
+  right: 19.23%;
+  bottom: 46.15%;
+  left: 50%;
+}
+.notifications {
+  position: absolute;
+  top: 0;
+  left: 955px;
+  border-radius: 1000px;
+  background-color: #fafafa;
+  width: 52px;
+  height: 52px;
+  overflow: hidden;
+  font-size: 10px;
+  color: #fff;
+}
+.frame-child {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.user-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.chevron-down-icon {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.user {
+  position: absolute;
+  top: 0;
+  left: 1023px;
+  border-radius: 1000px;
+  background-color: #fafafa;
+  height: 52px;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 12px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.icon-search {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.small-label-regular-12px {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 24px;
+}
+.icon-search-parent,
+.input-field,
+.label {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.label {
+  align-items: flex-start;
+}
+.icon-search-parent,
+.input-field {
+  border-radius: 12px;
+}
+.icon-search-parent {
+  flex: 1;
+  background-color: #fdfdfd;
+  border: 1px solid #ecf1f6;
+  box-sizing: border-box;
+  height: 52px;
+  padding: 0 0 0 16px;
+  align-items: center;
+  gap: 8px;
+}
+.input-field {
+  position: absolute;
+  top: 0;
+  left: 740px;
+  width: 191px;
+  align-items: flex-start;
+  font-size: 16px;
+  color: #78828a;
+}
+.top {
+  position: absolute;
+  top: 32px;
+  left: 297px;
+  width: 1111px;
+  height: 52px;
+  text-align: left;
+  font-size: 32px;
+  color: #1f2c37;
+  font-family: Inter;
+}

@@ -1,0 +1,161 @@
+.data-privacy1 {
+  font-size: 23px;
+  font-weight: 700;
+}
+
+.small-label-regular-12px1 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 24px;
+  display: none;
+}
+
+.small-label-regular-12px2 {
+  position: absolute;
+  top: 23.73%;
+  left: 2.23%;
+  font-size: 18px;
+  font-weight: 600;
+}
+.arrow-right-3 {
+  position: absolute;
+  bottom: 33.9%;
+  left: 94.3%;
+}
+.privacy-11 {
+  position: relative;
+  width: 719px;
+  height: 59px;
+}
+.privacy-1 {
+  position: absolute;
+  top: 60px;
+  left: 0;
+}
+.small-label-regular-12px4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.arrow-right-31 {
+  position: absolute;
+  height: 92.31%;
+  width: 3.5%;
+  top: 3.85%;
+  right: 0;
+  bottom: 3.85%;
+  left: 96.5%;
+}
+.small-label-regular-12px-parent {
+  position: absolute;
+  height: 44.07%;
+  width: 95.41%;
+  top: 28.81%;
+  right: 2.36%;
+  bottom: 27.12%;
+  left: 2.23%;
+  font-size: 18px;
+}
+.privacy-2 {
+  position: absolute;
+  top: 143px;
+  left: 0;
+  width: 719px;
+  height: 59px;
+}
+
+.type16 {
+  position: absolute;
+  width: 96.21%;
+  top: 39.37%;
+  left: 0.29%;
+  letter-spacing: 0.01em;
+  line-height: 25.5px;
+  
+}
+.small-label-regular-12px-group {
+  position: absolute;
+  height: 20.47%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 79.53%;
+  left: 0;
+  font-size: 18px;
+  color: #355fe5;
+}
+.type16-parent {
+  position: absolute;
+  height: 71.75%;
+  width: 95.41%;
+  top: 9.6%;
+  right: 2.36%;
+  bottom: 18.64%;
+  left: 2.23%;
+  color: #9ca4ab;
+}
+.privacy-3 {
+  position: absolute;
+  top: 226px;
+  left: 0;
+  width: 719px;
+  height: 177px;
+}
+.arrow-right-36,
+.privacy-4,
+.privacy-5,
+.privacy-6 {
+  position: absolute;
+  top: 427px;
+  left: 0;
+  width: 719px;
+  height: 59px;
+}
+.arrow-right-36,
+.privacy-5,
+.privacy-6 {
+  top: 510px;
+}
+.arrow-right-36,
+.privacy-6 {
+  top: 593px;
+}
+.arrow-right-36 {
+  height: 92.31%;
+  width: 3.5%;
+  top: 0;
+  right: 0;
+  bottom: 7.69%;
+  left: 96.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.small-label-regular-12px-parent2 {
+  position: absolute;
+  height: 44.07%;
+  width: 95.41%;
+  top: 30.51%;
+  right: 2.36%;
+  bottom: 25.42%;
+  left: 2.23%;
+  font-size: 18px;
+}
+.data-privacy,
+.privacy-7 {
+  position: absolute;
+  top: 676px;
+  left: 0;
+  width: 719px;
+  height: 59px;
+}
+.data-privacy {
+  top: 116px;
+  left: 689px;
+  height: 735px;
+  text-align: left;
+  font-size: 16px;
+  color: #1f2c37;
+  font-family: Inter;
+}
